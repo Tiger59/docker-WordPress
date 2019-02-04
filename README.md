@@ -6,7 +6,7 @@ Development Wordpress with Docker Compose
 ### Clone this repository
 
 ```
-git clone https://github.com/acro5piano/docker-lamp-elasticsearch.git
+git clone https://github.com/Tiger59/docker-WordPress.git
 cd docker-WordPress
 docker-compose up
 ```
